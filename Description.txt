@@ -1,0 +1,11 @@
+# Frameworks/Languages -> Javascript is my choice of language. Reactjs(Library) is my choice for frontend.
+
+# Approach: 
+First challenge was to understand the problem statement and figuring an approach to solve it.
+Second i thought for how to schedule the task, then thought for setTime out, but setTimeout dosnt take date and time . Then i came up with node-schedule npm package, which takes date as first argument and second as a call back function.
+Third i start to code via refernceing from npm node - scheduler docs,then implemented it on nodejs.
+Forth challenge was to how to take json file and pass it as parameter to the function argument , then i imported the json file into js file, which i have already used in  my previous projects so i quickly figured out the solution and implemented the rest of functionality according to the problem statement.
+
+Like this i was able to solve the problem statement.
+
+# 
